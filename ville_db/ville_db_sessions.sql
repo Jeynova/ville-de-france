@@ -40,7 +40,7 @@ CREATE TABLE `sessions` (
 
 LOCK TABLES `sessions` WRITE;
 /*!40000 ALTER TABLE `sessions` DISABLE KEYS */;
-INSERT INTO `sessions` VALUES (1,'JCyjcI1eXDetSjUTARJt6ucrIkb4-qcj09VrQ6M5MTc','::1',1573223467,_binary '_sf2_attributes|a:1:{s:3:\"uid\";s:1:\"1\";}_sf2_meta|a:4:{s:1:\"u\";i:1573223338;s:1:\"c\";i:1573031961;s:1:\"l\";s:7:\"2000000\";s:1:\"s\";s:43:\"lUDmajoikaSQX4OuKYi0iSdte_8_0dh4S6owtkkDEN8\";}authorize_page_title|O:48:\"Drupal\\Core\\StringTranslation\\TranslatableMarkup\":3:{s:9:\"\0*\0string\";s:14:\"Update manager\";s:12:\"\0*\0arguments\";a:0:{}s:10:\"\0*\0options\";a:0:{}}');
+INSERT INTO `sessions` VALUES (1,'JCyjcI1eXDetSjUTARJt6ucrIkb4-qcj09VrQ6M5MTc','::1',1573226537,_binary '_sf2_attributes|a:1:{s:3:\"uid\";s:1:\"1\";}_sf2_meta|a:4:{s:1:\"u\";i:1573226530;s:1:\"c\";i:1573031961;s:1:\"l\";s:7:\"2000000\";s:1:\"s\";s:43:\"lUDmajoikaSQX4OuKYi0iSdte_8_0dh4S6owtkkDEN8\";}authorize_page_title|O:48:\"Drupal\\Core\\StringTranslation\\TranslatableMarkup\":3:{s:9:\"\0*\0string\";s:14:\"Update manager\";s:12:\"\0*\0arguments\";a:0:{}s:10:\"\0*\0options\";a:0:{}}');
 /*!40000 ALTER TABLE `sessions` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -53,4 +53,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-11-08 15:33:57
+-- Dump completed on 2019-11-08 16:26:27

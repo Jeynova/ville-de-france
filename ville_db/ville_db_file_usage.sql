@@ -41,7 +41,7 @@ CREATE TABLE `file_usage` (
 
 LOCK TABLES `file_usage` WRITE;
 /*!40000 ALTER TABLE `file_usage` DISABLE KEYS */;
-INSERT INTO `file_usage` VALUES (1,'file','taxonomy_term','1',1),(2,'file','taxonomy_term','2',1),(3,'file','taxonomy_term','3',1),(4,'file','taxonomy_term','4',1),(6,'file','node','102',5),(7,'file','node','103',4),(8,'file','node','104',1),(9,'file','node','104',5),(10,'file','node','105',5),(11,'file','node','106',5),(12,'file','node','107',4),(13,'file','node','108',5),(14,'file','node','109',3),(15,'file','node','110',3),(16,'file','node','111',3),(17,'file','node','112',4),(18,'file','node','113',3),(19,'file','node','114',4);
+INSERT INTO `file_usage` VALUES (1,'file','taxonomy_term','1',1),(2,'file','taxonomy_term','2',1),(3,'file','taxonomy_term','3',1),(4,'file','taxonomy_term','4',1),(6,'file','node','102',5),(7,'file','node','103',4),(8,'file','node','104',1),(9,'file','node','104',5),(10,'file','node','105',5),(11,'file','node','106',5),(12,'file','node','107',4),(13,'file','node','108',6),(14,'file','node','109',3),(15,'file','node','110',3),(16,'file','node','111',3),(17,'file','node','112',4),(18,'file','node','113',3),(19,'file','node','114',4);
 /*!40000 ALTER TABLE `file_usage` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -54,4 +54,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-11-08 15:34:11
+-- Dump completed on 2019-11-08 16:26:46

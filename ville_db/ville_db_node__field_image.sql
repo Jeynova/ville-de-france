@@ -47,7 +47,7 @@ CREATE TABLE `node__field_image` (
 
 LOCK TABLES `node__field_image` WRITE;
 /*!40000 ALTER TABLE `node__field_image` DISABLE KEYS */;
-INSERT INTO `node__field_image` VALUES ('villes',0,102,155,'en',0,6,'La ville de Lille','',2001,1599),('villes',0,103,143,'en',0,7,'Ville d\'Amiens','',1280,853),('villes',0,104,144,'en',0,9,'Ville de Valenciennes','',1200,674),('monuments',0,105,147,'en',0,10,'Place du theatre.','',1920,944),('monuments',0,106,146,'en',0,11,'Vieille Bourse','',800,579),('monuments',0,107,145,'en',0,12,'Cathedrale de la Treille','',1024,768),('monuments',0,108,148,'en',0,13,'La basilique Notre Dame de Saint Cordon','',450,600),('monuments',0,109,149,'en',0,14,'Eglise de Saint-Gery','',800,600),('monuments',0,110,150,'en',0,15,'Hotel de ville de Valenciennes','',661,600),('monuments',0,111,151,'en',0,16,'Cathedrale d\'Amiens','',530,600),('monuments',0,112,152,'en',0,17,'Horloge Dewailly et Marie-sans-chemise','',533,799),('monuments',0,113,153,'en',0,18,'Parc de Samara','',800,537),('monuments',0,114,154,'en',0,19,'Beffroi d\'Amiens','',400,600);
+INSERT INTO `node__field_image` VALUES ('villes',0,102,155,'en',0,6,'La ville de Lille','',2001,1599),('villes',0,103,143,'en',0,7,'Ville d\'Amiens','',1280,853),('villes',0,104,144,'en',0,9,'Ville de Valenciennes','',1200,674),('monuments',0,105,147,'en',0,10,'Place du theatre.','',1920,944),('monuments',0,106,146,'en',0,11,'Vieille Bourse','',800,579),('monuments',0,107,145,'en',0,12,'Cathedrale de la Treille','',1024,768),('monuments',0,108,156,'en',0,13,'La basilique Notre Dame de Saint Cordon','',450,600),('monuments',0,109,149,'en',0,14,'Eglise de Saint-Gery','',800,600),('monuments',0,110,150,'en',0,15,'Hotel de ville de Valenciennes','',661,600),('monuments',0,111,151,'en',0,16,'Cathedrale d\'Amiens','',530,600),('monuments',0,112,152,'en',0,17,'Horloge Dewailly et Marie-sans-chemise','',533,799),('monuments',0,113,153,'en',0,18,'Parc de Samara','',800,537),('monuments',0,114,154,'en',0,19,'Beffroi d\'Amiens','',400,600);
 /*!40000 ALTER TABLE `node__field_image` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -60,4 +60,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-11-08 15:33:56
+-- Dump completed on 2019-11-08 16:26:26

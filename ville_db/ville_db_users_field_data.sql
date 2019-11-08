@@ -53,7 +53,7 @@ CREATE TABLE `users_field_data` (
 
 LOCK TABLES `users_field_data` WRITE;
 /*!40000 ALTER TABLE `users_field_data` DISABLE KEYS */;
-INSERT INTO `users_field_data` VALUES (0,'en','en',NULL,'',NULL,NULL,'',0,1573029980,1573029980,0,0,NULL,1),(1,'en','en',NULL,'Admin','$S$ELx52Z73z30cVw..04XMeW0Y77/ey4JvmtY3pumKL/m1U45.f/8H','jeynovakuna@gmail.com','Europe/Paris',1,1573029980,1573031907,1573223338,1573031907,'jeynovakuna@gmail.com',1);
+INSERT INTO `users_field_data` VALUES (0,'en','en',NULL,'',NULL,NULL,'',0,1573029980,1573029980,0,0,NULL,1),(1,'en','en',NULL,'Admin','$S$ELx52Z73z30cVw..04XMeW0Y77/ey4JvmtY3pumKL/m1U45.f/8H','jeynovakuna@gmail.com','Europe/Paris',1,1573029980,1573031907,1573226530,1573031907,'jeynovakuna@gmail.com',1);
 /*!40000 ALTER TABLE `users_field_data` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -66,4 +66,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-11-08 15:33:55
+-- Dump completed on 2019-11-08 16:26:25

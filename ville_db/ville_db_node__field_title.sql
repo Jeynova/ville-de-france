@@ -44,7 +44,7 @@ CREATE TABLE `node__field_title` (
 
 LOCK TABLES `node__field_title` WRITE;
 /*!40000 ALTER TABLE `node__field_title` DISABLE KEYS */;
-INSERT INTO `node__field_title` VALUES ('villes',0,102,155,'en',0,'<none>','basic_html'),('villes',0,103,143,'en',0,'<none>','basic_html'),('villes',0,104,144,'en',0,'<none>','basic_html'),('monuments',0,105,147,'en',0,'<none>','basic_html'),('monuments',0,106,146,'en',0,'<none>','basic_html'),('monuments',0,107,145,'en',0,'<none>','basic_html'),('monuments',0,108,148,'en',0,'Basilique Notre Dame de saint Cordon','basic_html'),('monuments',0,109,149,'en',0,'<none>','basic_html'),('monuments',0,110,150,'en',0,'<none>','basic_html'),('monuments',0,111,151,'en',0,'<none>','basic_html'),('monuments',0,112,152,'en',0,'<none>','basic_html'),('monuments',0,113,153,'en',0,'<none>','basic_html'),('monuments',0,114,154,'en',0,'<none>','basic_html');
+INSERT INTO `node__field_title` VALUES ('villes',0,102,155,'en',0,'<none>','basic_html'),('villes',0,103,143,'en',0,'<none>','basic_html'),('villes',0,104,144,'en',0,'<none>','basic_html'),('monuments',0,105,147,'en',0,'<none>','basic_html'),('monuments',0,106,146,'en',0,'<none>','basic_html'),('monuments',0,107,145,'en',0,'<none>','basic_html'),('monuments',0,108,156,'en',0,'<none>','basic_html'),('monuments',0,109,149,'en',0,'<none>','basic_html'),('monuments',0,110,150,'en',0,'<none>','basic_html'),('monuments',0,111,151,'en',0,'<none>','basic_html'),('monuments',0,112,152,'en',0,'<none>','basic_html'),('monuments',0,113,153,'en',0,'<none>','basic_html'),('monuments',0,114,154,'en',0,'<none>','basic_html');
 /*!40000 ALTER TABLE `node__field_title` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -57,4 +57,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-11-08 15:33:54
+-- Dump completed on 2019-11-08 16:26:23

@@ -43,7 +43,7 @@ CREATE TABLE `node__field_type` (
 
 LOCK TABLES `node__field_type` WRITE;
 /*!40000 ALTER TABLE `node__field_type` DISABLE KEYS */;
-INSERT INTO `node__field_type` VALUES ('monuments',0,105,147,'en',0,6),('monuments',0,106,146,'en',0,6),('monuments',0,106,146,'en',1,10),('monuments',0,107,145,'en',0,5),('monuments',0,107,145,'en',1,6),('monuments',0,108,148,'en',0,5),('monuments',0,109,149,'en',0,5),('monuments',0,109,149,'en',1,9),('monuments',0,110,150,'en',0,6),('monuments',0,110,150,'en',1,8),('monuments',0,111,151,'en',0,6),('monuments',0,112,152,'en',0,8),('monuments',0,113,153,'en',0,12),('monuments',0,113,153,'en',1,6),('monuments',0,114,154,'en',0,6),('monuments',0,114,154,'en',1,9);
+INSERT INTO `node__field_type` VALUES ('monuments',0,105,147,'en',0,6),('monuments',0,106,146,'en',0,6),('monuments',0,106,146,'en',1,10),('monuments',0,107,145,'en',0,5),('monuments',0,107,145,'en',1,6),('monuments',0,108,156,'en',0,5),('monuments',0,109,149,'en',0,5),('monuments',0,109,149,'en',1,9),('monuments',0,110,150,'en',0,6),('monuments',0,110,150,'en',1,8),('monuments',0,111,151,'en',0,6),('monuments',0,112,152,'en',0,8),('monuments',0,113,153,'en',0,12),('monuments',0,113,153,'en',1,6),('monuments',0,114,154,'en',0,6),('monuments',0,114,154,'en',1,9);
 /*!40000 ALTER TABLE `node__field_type` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -56,4 +56,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-11-08 15:34:08
+-- Dump completed on 2019-11-08 16:26:43
