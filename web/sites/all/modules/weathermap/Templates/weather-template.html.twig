@@ -1,0 +1,24 @@
+{#
+/**
+*
+*@file
+*@see template_preprocess_block
+*@ingroup themeable
+*
+*/
+#}
+
+
+<div style="background-color: #74b7ff;display: flex;flex-direction: column;align-items: center;">
+<div><h1 style="font-style: italic;font-weight: bold">La meteo</h1></div>
+
+<div style="text-align: center">
+  <ul style="list-style: none">
+    <li><h2>{{ name }}</h2></li>
+    <li><h3>Temps: {{ description }}</h3></li>
+    <li><h3>Temperature: {{ temperature }} °C</h3></li>
+    <li><img src="http://openweathermap.org/img/wn/{{icon}}@2x.png"</li>
+  </ul>
+</div>
+
+</div>

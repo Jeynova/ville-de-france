@@ -1,0 +1,19 @@
+<?php
+
+/**
+* Implements hook_theme()
+*/
+function weathermap_theme($existing, $type, $theme, $path) {
+return [
+'weather_template' => [
+'variables' => [
+  'content' => NULL,
+  'description' => NULL,
+  'name' => NULL,
+  'temperature'=> NULL,
+  'icon' => NULL,
+  ],
+  'render element' => "children"
+],
+];
+}

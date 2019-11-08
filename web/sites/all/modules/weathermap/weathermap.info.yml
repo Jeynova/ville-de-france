@@ -1,0 +1,6 @@
+name: Weathermap Module
+description: Create a weather block for a town.
+package: Custom
+
+type: module
+core: 8.x

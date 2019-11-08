@@ -1,0 +1,6 @@
+weathermap.admin_settings_form:
+  title: 'Weather message configuration'
+  route_name: weathermap.admin_settings_form
+  description: 'Weather data is getting there'
+  parent: system.admin_config_system
+  weight: 99
